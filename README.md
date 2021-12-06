@@ -1,20 +1,21 @@
-# FFF CFGV3
+# CFGV3
 
-## 2874627
-**PUMPUM:** - hrhgkjrehgkjsbnsfgbklsgfkln
+## first readme on git
 
-### Сетупе
+**BOLD** UNBOLD
 
-#### fbgkfl wat7
-* 1
-* 2
-  * 21
-  * 22
+### third level of text
 
-##### 5level
-1. 46246
-2. 34526
+#### some text about
+* 1 idk
+* 2 what
+  * 2.1 what simple
+  * 2.2 what super simple
 
-###### 6
-[текст ссылки](https://ya.ru)
-![ня](https://donttakefake.com/wp-content/uploads/2021/02/Nyan-Cat-dtf-magazine.jpg)
+##### woo!
+1. point 1
+2. point 2
+
+###### ae unmeaningful
+[simple version of yandex](https://ya.ru)
+![котики увеличивают посещаемость](https://donttakefake.com/wp-content/uploads/2021/02/Nyan-Cat-dtf-magazine.jpg)
